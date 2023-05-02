@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Reeshabh Choudhary.
 - 👀 I’m interested in Technology, Travel and Sports.
-- 🌱 I’m currently learning Scala.
-- 💞️ I’m looking to collaborate on latest Java Spring Boot projects.
+- 🌱 I’m currently learning Data Science and ML.
+- 💞️ I’m looking to collaborate on Software Development projects.
 - 📫 How to reach me: reeshabh.007@gmail.com
 
 <!---
