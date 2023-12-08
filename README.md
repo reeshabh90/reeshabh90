@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Reeshabh Choudhary.
-- 👀 I’m interested in Technology, Travel and Sports.
-- 🌱 I’m currently learning Data Science and ML.
-- 💞️ I’m looking to collaborate on Software Development projects.
-- 📫 How to reach me: reeshabh.007@gmail.com
+<p align="center">
+<a href="https://www.linkedin.com/in/reeshabh-choudhary/" target="blank"><img height="30px" align="center" src="https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:reeshabh.choudhary@gmail.com" target="blank"><img height="30px" align="center" src="https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<!---
-reeshabh90/reeshabh90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1></h1>
+<p align="center">
+<b>Software Architect and Developer. Author : <a href="https://objects-data-ai.github.io/">Objects, Data & AI</a>. I am a Student | interested in History & Sports.<br>
+</b>
+</p>
