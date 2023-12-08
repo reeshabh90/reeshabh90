@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://www.linkedin.com/in/reeshabh-choudhary/" target="blank"><img height="30px" align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:reeshabh.choudhary@gmail.com" target="blank"><img height="30px" align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/reeshabh-choudhary/" target="blank"><img height="30px" align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:reeshabh.choudhary@gmail.com" target="blank"><img height="30px" align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;  <a href="https://twitter.com/reesh0908" target="blank"><img height="30px" align="center" src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" /></a>
 </p>
 <h1>👋 Hi, I am Reeshabh Choudhary</h1>
 <h2>
