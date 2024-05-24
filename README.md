@@ -4,7 +4,7 @@
 <h1>👋 Hi, I am Reeshabh Choudhary</h1>
 <h2>
 <p align="left">
-<b>⚒Software Architect and Developer.<br> 📕Author : <a href="https://read.amazon.in/kp/embed?asin=B0D35LFCJM&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_MEQ6EPS9ATRWDFC6Q7RB">Objects, Data & AI</a>.
+<b>⚒Software Architect and Developer.<br> 📕Author : <a href="https://read.amazon.in/kp/embed?asin=B0D35LFCJM&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_MEQ6EPS9ATRWDFC6Q7RB">Objects, Data & AI</a>, <a href="https://www.amazon.in/Concurrency-Parallelism-Efficient-Utilization-Programming/dp/B0D4B1VNVV/ref=sr_1_1?crid=2DF02BX8CTDVY&dib=eyJ2IjoiMSJ9.uiXPYe7mXR0vOiepq8lnrbLZnKTL2ycyHVhUQ18Nks6hXImydgJqtt1ydjLm8yb5AXArQJTaJiN4ZVHkEBeNQROnBsPvIOHa9PHlp0B4R_xj2cnXsGHc3coW3NQmavs0Ks4qi6_kd0hmBDtcLqgXAJifgnHoyfhOWNoOaGclpDxnIJe90p8_AIfkhEKIN2K3dfdmHw-W4oWx7QG4xKaRTKFF7ZktzFiJbbjZwJCVNfg.Lc5Ht4j2wFXxnDmFjgzsy8Yhcz5l2vOdKxrOHPwS2zg&dib_tag=se&keywords=concurrency+parallelism&qid=1716545744&sprefix=%2Caps%2C204&sr=8-1">Concurrency & Parallelism</a>
 </b>
 </p>
 </h2>
