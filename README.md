@@ -13,7 +13,7 @@
 <b>Technologies:</b>
 </h3>
 
-![Static Badge](https://img.shields.io/badge/C++-blue?logo=C++)
+![Static Badge](https://img.shields.io/badge/C++-blue?logo=cplusplus)
 ![Static Badge](https://img.shields.io/badge/OpenAI-black?logo=OpenAI)
 ![Static Badge](https://img.shields.io/badge/Javascript-red?logo=Javascript)
 ![Static Badge](https://img.shields.io/badge/Spring%20Boot-black?logo=spring%20boot)
